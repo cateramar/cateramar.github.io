@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cateramar.github.io/sitemap
+Sitemap: https://cateramar.github.io/app/sitemap
+Sitemap: https://cateramar.github.io/assets/sitemap
+Sitemap: https://cateramar.github.io/css/sitemap
+Sitemap: https://cateramar.github.io/includes/sitemap
+Sitemap: https://cateramar.github.io/item/sitemap
+Sitemap: https://cateramar.github.io/src/sitemap
